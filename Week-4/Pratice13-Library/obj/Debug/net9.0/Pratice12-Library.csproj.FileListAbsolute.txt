@@ -1,0 +1,15 @@
+/Users/ahmetucar/Pratice12-Library/bin/Debug/net9.0/Pratice12-Library
+/Users/ahmetucar/Pratice12-Library/bin/Debug/net9.0/Pratice12-Library.deps.json
+/Users/ahmetucar/Pratice12-Library/bin/Debug/net9.0/Pratice12-Library.runtimeconfig.json
+/Users/ahmetucar/Pratice12-Library/bin/Debug/net9.0/Pratice12-Library.dll
+/Users/ahmetucar/Pratice12-Library/bin/Debug/net9.0/Pratice12-Library.pdb
+/Users/ahmetucar/Pratice12-Library/obj/Debug/net9.0/Pratice12-Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetucar/Pratice12-Library/obj/Debug/net9.0/Pratice12-Library.AssemblyInfoInputs.cache
+/Users/ahmetucar/Pratice12-Library/obj/Debug/net9.0/Pratice12-Library.AssemblyInfo.cs
+/Users/ahmetucar/Pratice12-Library/obj/Debug/net9.0/Pratice12-Library.csproj.CoreCompileInputs.cache
+/Users/ahmetucar/Pratice12-Library/obj/Debug/net9.0/Pratice12-Library.sourcelink.json
+/Users/ahmetucar/Pratice12-Library/obj/Debug/net9.0/Pratice12-Library.dll
+/Users/ahmetucar/Pratice12-Library/obj/Debug/net9.0/refint/Pratice12-Library.dll
+/Users/ahmetucar/Pratice12-Library/obj/Debug/net9.0/Pratice12-Library.pdb
+/Users/ahmetucar/Pratice12-Library/obj/Debug/net9.0/Pratice12-Library.genruntimeconfig.cache
+/Users/ahmetucar/Pratice12-Library/obj/Debug/net9.0/ref/Pratice12-Library.dll

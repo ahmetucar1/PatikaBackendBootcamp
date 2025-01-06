@@ -1,0 +1,15 @@
+/Users/ahmetucar/Pratik7-WhilePratikleri/bin/Debug/net9.0/Pratik7-WhilePratikleri
+/Users/ahmetucar/Pratik7-WhilePratikleri/bin/Debug/net9.0/Pratik7-WhilePratikleri.deps.json
+/Users/ahmetucar/Pratik7-WhilePratikleri/bin/Debug/net9.0/Pratik7-WhilePratikleri.runtimeconfig.json
+/Users/ahmetucar/Pratik7-WhilePratikleri/bin/Debug/net9.0/Pratik7-WhilePratikleri.dll
+/Users/ahmetucar/Pratik7-WhilePratikleri/bin/Debug/net9.0/Pratik7-WhilePratikleri.pdb
+/Users/ahmetucar/Pratik7-WhilePratikleri/obj/Debug/net9.0/Pratik7-WhilePratikleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetucar/Pratik7-WhilePratikleri/obj/Debug/net9.0/Pratik7-WhilePratikleri.AssemblyInfoInputs.cache
+/Users/ahmetucar/Pratik7-WhilePratikleri/obj/Debug/net9.0/Pratik7-WhilePratikleri.AssemblyInfo.cs
+/Users/ahmetucar/Pratik7-WhilePratikleri/obj/Debug/net9.0/Pratik7-WhilePratikleri.csproj.CoreCompileInputs.cache
+/Users/ahmetucar/Pratik7-WhilePratikleri/obj/Debug/net9.0/Pratik7-WhilePratikleri.sourcelink.json
+/Users/ahmetucar/Pratik7-WhilePratikleri/obj/Debug/net9.0/Pratik7-WhilePratikleri.dll
+/Users/ahmetucar/Pratik7-WhilePratikleri/obj/Debug/net9.0/refint/Pratik7-WhilePratikleri.dll
+/Users/ahmetucar/Pratik7-WhilePratikleri/obj/Debug/net9.0/Pratik7-WhilePratikleri.pdb
+/Users/ahmetucar/Pratik7-WhilePratikleri/obj/Debug/net9.0/Pratik7-WhilePratikleri.genruntimeconfig.cache
+/Users/ahmetucar/Pratik7-WhilePratikleri/obj/Debug/net9.0/ref/Pratik7-WhilePratikleri.dll

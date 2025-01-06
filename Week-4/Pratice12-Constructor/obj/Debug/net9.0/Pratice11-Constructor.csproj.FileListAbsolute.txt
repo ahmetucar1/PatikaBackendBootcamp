@@ -1,0 +1,15 @@
+/Users/ahmetucar/Pratice11-Constructor/bin/Debug/net9.0/Pratice11-Constructor
+/Users/ahmetucar/Pratice11-Constructor/bin/Debug/net9.0/Pratice11-Constructor.deps.json
+/Users/ahmetucar/Pratice11-Constructor/bin/Debug/net9.0/Pratice11-Constructor.runtimeconfig.json
+/Users/ahmetucar/Pratice11-Constructor/bin/Debug/net9.0/Pratice11-Constructor.dll
+/Users/ahmetucar/Pratice11-Constructor/bin/Debug/net9.0/Pratice11-Constructor.pdb
+/Users/ahmetucar/Pratice11-Constructor/obj/Debug/net9.0/Pratice11-Constructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetucar/Pratice11-Constructor/obj/Debug/net9.0/Pratice11-Constructor.AssemblyInfoInputs.cache
+/Users/ahmetucar/Pratice11-Constructor/obj/Debug/net9.0/Pratice11-Constructor.AssemblyInfo.cs
+/Users/ahmetucar/Pratice11-Constructor/obj/Debug/net9.0/Pratice11-Constructor.csproj.CoreCompileInputs.cache
+/Users/ahmetucar/Pratice11-Constructor/obj/Debug/net9.0/Pratice11-Constructor.sourcelink.json
+/Users/ahmetucar/Pratice11-Constructor/obj/Debug/net9.0/Pratice11-Constructor.dll
+/Users/ahmetucar/Pratice11-Constructor/obj/Debug/net9.0/refint/Pratice11-Constructor.dll
+/Users/ahmetucar/Pratice11-Constructor/obj/Debug/net9.0/Pratice11-Constructor.pdb
+/Users/ahmetucar/Pratice11-Constructor/obj/Debug/net9.0/Pratice11-Constructor.genruntimeconfig.cache
+/Users/ahmetucar/Pratice11-Constructor/obj/Debug/net9.0/ref/Pratice11-Constructor.dll

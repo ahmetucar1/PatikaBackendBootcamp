@@ -1,0 +1,15 @@
+/Users/ahmetucar/ForPractices/bin/Debug/net9.0/ForPractices
+/Users/ahmetucar/ForPractices/bin/Debug/net9.0/ForPractices.deps.json
+/Users/ahmetucar/ForPractices/bin/Debug/net9.0/ForPractices.runtimeconfig.json
+/Users/ahmetucar/ForPractices/bin/Debug/net9.0/ForPractices.dll
+/Users/ahmetucar/ForPractices/bin/Debug/net9.0/ForPractices.pdb
+/Users/ahmetucar/ForPractices/obj/Debug/net9.0/ForPractices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetucar/ForPractices/obj/Debug/net9.0/ForPractices.AssemblyInfoInputs.cache
+/Users/ahmetucar/ForPractices/obj/Debug/net9.0/ForPractices.AssemblyInfo.cs
+/Users/ahmetucar/ForPractices/obj/Debug/net9.0/ForPractices.csproj.CoreCompileInputs.cache
+/Users/ahmetucar/ForPractices/obj/Debug/net9.0/ForPractices.sourcelink.json
+/Users/ahmetucar/ForPractices/obj/Debug/net9.0/ForPractices.dll
+/Users/ahmetucar/ForPractices/obj/Debug/net9.0/refint/ForPractices.dll
+/Users/ahmetucar/ForPractices/obj/Debug/net9.0/ForPractices.pdb
+/Users/ahmetucar/ForPractices/obj/Debug/net9.0/ForPractices.genruntimeconfig.cache
+/Users/ahmetucar/ForPractices/obj/Debug/net9.0/ref/ForPractices.dll

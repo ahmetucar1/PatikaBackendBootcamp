@@ -1,0 +1,15 @@
+/Users/ahmetucar/Pratik13-Encapsulation/bin/Debug/net9.0/Pratik13-Encapsulation
+/Users/ahmetucar/Pratik13-Encapsulation/bin/Debug/net9.0/Pratik13-Encapsulation.deps.json
+/Users/ahmetucar/Pratik13-Encapsulation/bin/Debug/net9.0/Pratik13-Encapsulation.runtimeconfig.json
+/Users/ahmetucar/Pratik13-Encapsulation/bin/Debug/net9.0/Pratik13-Encapsulation.dll
+/Users/ahmetucar/Pratik13-Encapsulation/bin/Debug/net9.0/Pratik13-Encapsulation.pdb
+/Users/ahmetucar/Pratik13-Encapsulation/obj/Debug/net9.0/Pratik13-Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetucar/Pratik13-Encapsulation/obj/Debug/net9.0/Pratik13-Encapsulation.AssemblyInfoInputs.cache
+/Users/ahmetucar/Pratik13-Encapsulation/obj/Debug/net9.0/Pratik13-Encapsulation.AssemblyInfo.cs
+/Users/ahmetucar/Pratik13-Encapsulation/obj/Debug/net9.0/Pratik13-Encapsulation.csproj.CoreCompileInputs.cache
+/Users/ahmetucar/Pratik13-Encapsulation/obj/Debug/net9.0/Pratik13-Encapsulation.sourcelink.json
+/Users/ahmetucar/Pratik13-Encapsulation/obj/Debug/net9.0/Pratik13-Encapsulation.dll
+/Users/ahmetucar/Pratik13-Encapsulation/obj/Debug/net9.0/refint/Pratik13-Encapsulation.dll
+/Users/ahmetucar/Pratik13-Encapsulation/obj/Debug/net9.0/Pratik13-Encapsulation.pdb
+/Users/ahmetucar/Pratik13-Encapsulation/obj/Debug/net9.0/Pratik13-Encapsulation.genruntimeconfig.cache
+/Users/ahmetucar/Pratik13-Encapsulation/obj/Debug/net9.0/ref/Pratik13-Encapsulation.dll

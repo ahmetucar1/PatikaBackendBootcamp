@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Pratik9-MetotPratikleri/1.0.0": {
+        "runtime": {
+          "Pratik9-MetotPratikleri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pratik9-MetotPratikleri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

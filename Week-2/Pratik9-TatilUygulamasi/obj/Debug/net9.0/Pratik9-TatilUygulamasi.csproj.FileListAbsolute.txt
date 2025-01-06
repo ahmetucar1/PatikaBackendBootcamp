@@ -1,0 +1,15 @@
+/Users/ahmetucar/Pratik9-TatilUygulamasi/bin/Debug/net9.0/Pratik9-TatilUygulamasi
+/Users/ahmetucar/Pratik9-TatilUygulamasi/bin/Debug/net9.0/Pratik9-TatilUygulamasi.deps.json
+/Users/ahmetucar/Pratik9-TatilUygulamasi/bin/Debug/net9.0/Pratik9-TatilUygulamasi.runtimeconfig.json
+/Users/ahmetucar/Pratik9-TatilUygulamasi/bin/Debug/net9.0/Pratik9-TatilUygulamasi.dll
+/Users/ahmetucar/Pratik9-TatilUygulamasi/bin/Debug/net9.0/Pratik9-TatilUygulamasi.pdb
+/Users/ahmetucar/Pratik9-TatilUygulamasi/obj/Debug/net9.0/Pratik9-TatilUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetucar/Pratik9-TatilUygulamasi/obj/Debug/net9.0/Pratik9-TatilUygulamasi.AssemblyInfoInputs.cache
+/Users/ahmetucar/Pratik9-TatilUygulamasi/obj/Debug/net9.0/Pratik9-TatilUygulamasi.AssemblyInfo.cs
+/Users/ahmetucar/Pratik9-TatilUygulamasi/obj/Debug/net9.0/Pratik9-TatilUygulamasi.csproj.CoreCompileInputs.cache
+/Users/ahmetucar/Pratik9-TatilUygulamasi/obj/Debug/net9.0/Pratik9-TatilUygulamasi.sourcelink.json
+/Users/ahmetucar/Pratik9-TatilUygulamasi/obj/Debug/net9.0/Pratik9-TatilUygulamasi.dll
+/Users/ahmetucar/Pratik9-TatilUygulamasi/obj/Debug/net9.0/refint/Pratik9-TatilUygulamasi.dll
+/Users/ahmetucar/Pratik9-TatilUygulamasi/obj/Debug/net9.0/Pratik9-TatilUygulamasi.pdb
+/Users/ahmetucar/Pratik9-TatilUygulamasi/obj/Debug/net9.0/Pratik9-TatilUygulamasi.genruntimeconfig.cache
+/Users/ahmetucar/Pratik9-TatilUygulamasi/obj/Debug/net9.0/ref/Pratik9-TatilUygulamasi.dll

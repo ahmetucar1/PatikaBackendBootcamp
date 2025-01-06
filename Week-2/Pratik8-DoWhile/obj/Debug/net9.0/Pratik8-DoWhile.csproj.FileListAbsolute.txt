@@ -1,0 +1,15 @@
+/Users/ahmetucar/Pratik8-DoWhile/bin/Debug/net9.0/Pratik8-DoWhile
+/Users/ahmetucar/Pratik8-DoWhile/bin/Debug/net9.0/Pratik8-DoWhile.deps.json
+/Users/ahmetucar/Pratik8-DoWhile/bin/Debug/net9.0/Pratik8-DoWhile.runtimeconfig.json
+/Users/ahmetucar/Pratik8-DoWhile/bin/Debug/net9.0/Pratik8-DoWhile.dll
+/Users/ahmetucar/Pratik8-DoWhile/bin/Debug/net9.0/Pratik8-DoWhile.pdb
+/Users/ahmetucar/Pratik8-DoWhile/obj/Debug/net9.0/Pratik8-DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetucar/Pratik8-DoWhile/obj/Debug/net9.0/Pratik8-DoWhile.AssemblyInfoInputs.cache
+/Users/ahmetucar/Pratik8-DoWhile/obj/Debug/net9.0/Pratik8-DoWhile.AssemblyInfo.cs
+/Users/ahmetucar/Pratik8-DoWhile/obj/Debug/net9.0/Pratik8-DoWhile.csproj.CoreCompileInputs.cache
+/Users/ahmetucar/Pratik8-DoWhile/obj/Debug/net9.0/Pratik8-DoWhile.sourcelink.json
+/Users/ahmetucar/Pratik8-DoWhile/obj/Debug/net9.0/Pratik8-DoWhile.dll
+/Users/ahmetucar/Pratik8-DoWhile/obj/Debug/net9.0/refint/Pratik8-DoWhile.dll
+/Users/ahmetucar/Pratik8-DoWhile/obj/Debug/net9.0/Pratik8-DoWhile.pdb
+/Users/ahmetucar/Pratik8-DoWhile/obj/Debug/net9.0/Pratik8-DoWhile.genruntimeconfig.cache
+/Users/ahmetucar/Pratik8-DoWhile/obj/Debug/net9.0/ref/Pratik8-DoWhile.dll

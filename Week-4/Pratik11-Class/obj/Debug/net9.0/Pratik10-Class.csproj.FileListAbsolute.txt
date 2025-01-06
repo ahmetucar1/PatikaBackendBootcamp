@@ -1,0 +1,15 @@
+/Users/ahmetucar/Pratik10-Class/bin/Debug/net9.0/Pratik10-Class
+/Users/ahmetucar/Pratik10-Class/bin/Debug/net9.0/Pratik10-Class.deps.json
+/Users/ahmetucar/Pratik10-Class/bin/Debug/net9.0/Pratik10-Class.runtimeconfig.json
+/Users/ahmetucar/Pratik10-Class/bin/Debug/net9.0/Pratik10-Class.dll
+/Users/ahmetucar/Pratik10-Class/bin/Debug/net9.0/Pratik10-Class.pdb
+/Users/ahmetucar/Pratik10-Class/obj/Debug/net9.0/Pratik10-Class.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetucar/Pratik10-Class/obj/Debug/net9.0/Pratik10-Class.AssemblyInfoInputs.cache
+/Users/ahmetucar/Pratik10-Class/obj/Debug/net9.0/Pratik10-Class.AssemblyInfo.cs
+/Users/ahmetucar/Pratik10-Class/obj/Debug/net9.0/Pratik10-Class.csproj.CoreCompileInputs.cache
+/Users/ahmetucar/Pratik10-Class/obj/Debug/net9.0/Pratik10-Class.sourcelink.json
+/Users/ahmetucar/Pratik10-Class/obj/Debug/net9.0/Pratik10-Class.dll
+/Users/ahmetucar/Pratik10-Class/obj/Debug/net9.0/refint/Pratik10-Class.dll
+/Users/ahmetucar/Pratik10-Class/obj/Debug/net9.0/Pratik10-Class.pdb
+/Users/ahmetucar/Pratik10-Class/obj/Debug/net9.0/Pratik10-Class.genruntimeconfig.cache
+/Users/ahmetucar/Pratik10-Class/obj/Debug/net9.0/ref/Pratik10-Class.dll

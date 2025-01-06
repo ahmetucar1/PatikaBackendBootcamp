@@ -1,0 +1,15 @@
+/Users/ahmetucar/Pratik9-MetotPratikleri/obj/Debug/net9.0/Pratik9-MetotPratikleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetucar/Pratik9-MetotPratikleri/obj/Debug/net9.0/Pratik9-MetotPratikleri.AssemblyInfoInputs.cache
+/Users/ahmetucar/Pratik9-MetotPratikleri/obj/Debug/net9.0/Pratik9-MetotPratikleri.AssemblyInfo.cs
+/Users/ahmetucar/Pratik9-MetotPratikleri/obj/Debug/net9.0/Pratik9-MetotPratikleri.csproj.CoreCompileInputs.cache
+/Users/ahmetucar/Pratik9-MetotPratikleri/obj/Debug/net9.0/Pratik9-MetotPratikleri.sourcelink.json
+/Users/ahmetucar/Pratik9-MetotPratikleri/bin/Debug/net9.0/Pratik9-MetotPratikleri
+/Users/ahmetucar/Pratik9-MetotPratikleri/bin/Debug/net9.0/Pratik9-MetotPratikleri.deps.json
+/Users/ahmetucar/Pratik9-MetotPratikleri/bin/Debug/net9.0/Pratik9-MetotPratikleri.runtimeconfig.json
+/Users/ahmetucar/Pratik9-MetotPratikleri/bin/Debug/net9.0/Pratik9-MetotPratikleri.dll
+/Users/ahmetucar/Pratik9-MetotPratikleri/bin/Debug/net9.0/Pratik9-MetotPratikleri.pdb
+/Users/ahmetucar/Pratik9-MetotPratikleri/obj/Debug/net9.0/Pratik9-MetotPratikleri.dll
+/Users/ahmetucar/Pratik9-MetotPratikleri/obj/Debug/net9.0/refint/Pratik9-MetotPratikleri.dll
+/Users/ahmetucar/Pratik9-MetotPratikleri/obj/Debug/net9.0/Pratik9-MetotPratikleri.pdb
+/Users/ahmetucar/Pratik9-MetotPratikleri/obj/Debug/net9.0/Pratik9-MetotPratikleri.genruntimeconfig.cache
+/Users/ahmetucar/Pratik9-MetotPratikleri/obj/Debug/net9.0/ref/Pratik9-MetotPratikleri.dll

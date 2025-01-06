@@ -1,0 +1,15 @@
+/Users/ahmetucar/Hafta2Kapanis/bin/Debug/net9.0/Hafta2Kapanis
+/Users/ahmetucar/Hafta2Kapanis/bin/Debug/net9.0/Hafta2Kapanis.deps.json
+/Users/ahmetucar/Hafta2Kapanis/bin/Debug/net9.0/Hafta2Kapanis.runtimeconfig.json
+/Users/ahmetucar/Hafta2Kapanis/bin/Debug/net9.0/Hafta2Kapanis.dll
+/Users/ahmetucar/Hafta2Kapanis/bin/Debug/net9.0/Hafta2Kapanis.pdb
+/Users/ahmetucar/Hafta2Kapanis/obj/Debug/net9.0/Hafta2Kapanis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetucar/Hafta2Kapanis/obj/Debug/net9.0/Hafta2Kapanis.AssemblyInfoInputs.cache
+/Users/ahmetucar/Hafta2Kapanis/obj/Debug/net9.0/Hafta2Kapanis.AssemblyInfo.cs
+/Users/ahmetucar/Hafta2Kapanis/obj/Debug/net9.0/Hafta2Kapanis.csproj.CoreCompileInputs.cache
+/Users/ahmetucar/Hafta2Kapanis/obj/Debug/net9.0/Hafta2Kapanis.sourcelink.json
+/Users/ahmetucar/Hafta2Kapanis/obj/Debug/net9.0/Hafta2Kapanis.dll
+/Users/ahmetucar/Hafta2Kapanis/obj/Debug/net9.0/refint/Hafta2Kapanis.dll
+/Users/ahmetucar/Hafta2Kapanis/obj/Debug/net9.0/Hafta2Kapanis.pdb
+/Users/ahmetucar/Hafta2Kapanis/obj/Debug/net9.0/Hafta2Kapanis.genruntimeconfig.cache
+/Users/ahmetucar/Hafta2Kapanis/obj/Debug/net9.0/ref/Hafta2Kapanis.dll
