@@ -1,0 +1,15 @@
+/Users/ahmetucar/Pratik5/bin/Debug/net9.0/Pratik5
+/Users/ahmetucar/Pratik5/bin/Debug/net9.0/Pratik5.deps.json
+/Users/ahmetucar/Pratik5/bin/Debug/net9.0/Pratik5.runtimeconfig.json
+/Users/ahmetucar/Pratik5/bin/Debug/net9.0/Pratik5.dll
+/Users/ahmetucar/Pratik5/bin/Debug/net9.0/Pratik5.pdb
+/Users/ahmetucar/Pratik5/obj/Debug/net9.0/Pratik5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetucar/Pratik5/obj/Debug/net9.0/Pratik5.AssemblyInfoInputs.cache
+/Users/ahmetucar/Pratik5/obj/Debug/net9.0/Pratik5.AssemblyInfo.cs
+/Users/ahmetucar/Pratik5/obj/Debug/net9.0/Pratik5.csproj.CoreCompileInputs.cache
+/Users/ahmetucar/Pratik5/obj/Debug/net9.0/Pratik5.sourcelink.json
+/Users/ahmetucar/Pratik5/obj/Debug/net9.0/Pratik5.dll
+/Users/ahmetucar/Pratik5/obj/Debug/net9.0/refint/Pratik5.dll
+/Users/ahmetucar/Pratik5/obj/Debug/net9.0/Pratik5.pdb
+/Users/ahmetucar/Pratik5/obj/Debug/net9.0/Pratik5.genruntimeconfig.cache
+/Users/ahmetucar/Pratik5/obj/Debug/net9.0/ref/Pratik5.dll

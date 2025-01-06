@@ -1,0 +1,15 @@
+/Users/ahmetucar/Example3/bin/Debug/net9.0/Example3
+/Users/ahmetucar/Example3/bin/Debug/net9.0/Example3.deps.json
+/Users/ahmetucar/Example3/bin/Debug/net9.0/Example3.runtimeconfig.json
+/Users/ahmetucar/Example3/bin/Debug/net9.0/Example3.dll
+/Users/ahmetucar/Example3/bin/Debug/net9.0/Example3.pdb
+/Users/ahmetucar/Example3/obj/Debug/net9.0/Example3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetucar/Example3/obj/Debug/net9.0/Example3.AssemblyInfoInputs.cache
+/Users/ahmetucar/Example3/obj/Debug/net9.0/Example3.AssemblyInfo.cs
+/Users/ahmetucar/Example3/obj/Debug/net9.0/Example3.csproj.CoreCompileInputs.cache
+/Users/ahmetucar/Example3/obj/Debug/net9.0/Example3.sourcelink.json
+/Users/ahmetucar/Example3/obj/Debug/net9.0/Example3.dll
+/Users/ahmetucar/Example3/obj/Debug/net9.0/refint/Example3.dll
+/Users/ahmetucar/Example3/obj/Debug/net9.0/Example3.pdb
+/Users/ahmetucar/Example3/obj/Debug/net9.0/Example3.genruntimeconfig.cache
+/Users/ahmetucar/Example3/obj/Debug/net9.0/ref/Example3.dll

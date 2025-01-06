@@ -1,0 +1,15 @@
+/Users/ahmetucar/UserInfoApp/bin/Debug/net9.0/UserInfoApp
+/Users/ahmetucar/UserInfoApp/bin/Debug/net9.0/UserInfoApp.deps.json
+/Users/ahmetucar/UserInfoApp/bin/Debug/net9.0/UserInfoApp.runtimeconfig.json
+/Users/ahmetucar/UserInfoApp/bin/Debug/net9.0/UserInfoApp.dll
+/Users/ahmetucar/UserInfoApp/bin/Debug/net9.0/UserInfoApp.pdb
+/Users/ahmetucar/UserInfoApp/obj/Debug/net9.0/UserInfoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetucar/UserInfoApp/obj/Debug/net9.0/UserInfoApp.AssemblyInfoInputs.cache
+/Users/ahmetucar/UserInfoApp/obj/Debug/net9.0/UserInfoApp.AssemblyInfo.cs
+/Users/ahmetucar/UserInfoApp/obj/Debug/net9.0/UserInfoApp.csproj.CoreCompileInputs.cache
+/Users/ahmetucar/UserInfoApp/obj/Debug/net9.0/UserInfoApp.sourcelink.json
+/Users/ahmetucar/UserInfoApp/obj/Debug/net9.0/UserInfoApp.dll
+/Users/ahmetucar/UserInfoApp/obj/Debug/net9.0/refint/UserInfoApp.dll
+/Users/ahmetucar/UserInfoApp/obj/Debug/net9.0/UserInfoApp.pdb
+/Users/ahmetucar/UserInfoApp/obj/Debug/net9.0/UserInfoApp.genruntimeconfig.cache
+/Users/ahmetucar/UserInfoApp/obj/Debug/net9.0/ref/UserInfoApp.dll

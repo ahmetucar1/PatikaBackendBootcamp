@@ -1,0 +1,15 @@
+/Users/ahmetucar/Pratik4/bin/Debug/net9.0/Pratik4
+/Users/ahmetucar/Pratik4/bin/Debug/net9.0/Pratik4.deps.json
+/Users/ahmetucar/Pratik4/bin/Debug/net9.0/Pratik4.runtimeconfig.json
+/Users/ahmetucar/Pratik4/bin/Debug/net9.0/Pratik4.dll
+/Users/ahmetucar/Pratik4/bin/Debug/net9.0/Pratik4.pdb
+/Users/ahmetucar/Pratik4/obj/Debug/net9.0/Pratik4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetucar/Pratik4/obj/Debug/net9.0/Pratik4.AssemblyInfoInputs.cache
+/Users/ahmetucar/Pratik4/obj/Debug/net9.0/Pratik4.AssemblyInfo.cs
+/Users/ahmetucar/Pratik4/obj/Debug/net9.0/Pratik4.csproj.CoreCompileInputs.cache
+/Users/ahmetucar/Pratik4/obj/Debug/net9.0/Pratik4.sourcelink.json
+/Users/ahmetucar/Pratik4/obj/Debug/net9.0/Pratik4.dll
+/Users/ahmetucar/Pratik4/obj/Debug/net9.0/refint/Pratik4.dll
+/Users/ahmetucar/Pratik4/obj/Debug/net9.0/Pratik4.pdb
+/Users/ahmetucar/Pratik4/obj/Debug/net9.0/Pratik4.genruntimeconfig.cache
+/Users/ahmetucar/Pratik4/obj/Debug/net9.0/ref/Pratik4.dll
