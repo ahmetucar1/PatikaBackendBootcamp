@@ -1,0 +1,15 @@
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratik15-İnheritance/bin/Debug/net9.0/Pratik15-İnheritance
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratik15-İnheritance/bin/Debug/net9.0/Pratik15-İnheritance.deps.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratik15-İnheritance/bin/Debug/net9.0/Pratik15-İnheritance.runtimeconfig.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratik15-İnheritance/bin/Debug/net9.0/Pratik15-İnheritance.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratik15-İnheritance/bin/Debug/net9.0/Pratik15-İnheritance.pdb
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratik15-İnheritance/obj/Debug/net9.0/Pratik15-İnheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratik15-İnheritance/obj/Debug/net9.0/Pratik15-İnheritance.AssemblyInfoInputs.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratik15-İnheritance/obj/Debug/net9.0/Pratik15-İnheritance.AssemblyInfo.cs
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratik15-İnheritance/obj/Debug/net9.0/Pratik15-İnheritance.csproj.CoreCompileInputs.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratik15-İnheritance/obj/Debug/net9.0/Pratik15-İnheritance.sourcelink.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratik15-İnheritance/obj/Debug/net9.0/Pratik15-İnheritance.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratik15-İnheritance/obj/Debug/net9.0/refint/Pratik15-İnheritance.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratik15-İnheritance/obj/Debug/net9.0/Pratik15-İnheritance.pdb
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratik15-İnheritance/obj/Debug/net9.0/Pratik15-İnheritance.genruntimeconfig.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratik15-İnheritance/obj/Debug/net9.0/ref/Pratik15-İnheritance.dll
