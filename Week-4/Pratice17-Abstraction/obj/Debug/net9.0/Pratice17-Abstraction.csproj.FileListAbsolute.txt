@@ -1,0 +1,15 @@
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice17-Abstraction/obj/Debug/net9.0/Pratice17-Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice17-Abstraction/obj/Debug/net9.0/Pratice17-Abstraction.AssemblyInfoInputs.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice17-Abstraction/obj/Debug/net9.0/Pratice17-Abstraction.AssemblyInfo.cs
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice17-Abstraction/obj/Debug/net9.0/Pratice17-Abstraction.csproj.CoreCompileInputs.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice17-Abstraction/obj/Debug/net9.0/Pratice17-Abstraction.sourcelink.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice17-Abstraction/bin/Debug/net9.0/Pratice17-Abstraction
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice17-Abstraction/bin/Debug/net9.0/Pratice17-Abstraction.deps.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice17-Abstraction/bin/Debug/net9.0/Pratice17-Abstraction.runtimeconfig.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice17-Abstraction/bin/Debug/net9.0/Pratice17-Abstraction.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice17-Abstraction/bin/Debug/net9.0/Pratice17-Abstraction.pdb
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice17-Abstraction/obj/Debug/net9.0/Pratice17-Abstraction.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice17-Abstraction/obj/Debug/net9.0/refint/Pratice17-Abstraction.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice17-Abstraction/obj/Debug/net9.0/Pratice17-Abstraction.pdb
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice17-Abstraction/obj/Debug/net9.0/Pratice17-Abstraction.genruntimeconfig.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice17-Abstraction/obj/Debug/net9.0/ref/Pratice17-Abstraction.dll
