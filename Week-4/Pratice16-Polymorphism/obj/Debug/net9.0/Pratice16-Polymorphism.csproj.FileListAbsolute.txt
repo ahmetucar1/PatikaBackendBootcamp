@@ -1,0 +1,15 @@
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice16-Polymorphism/bin/Debug/net9.0/Pratice16-Polymorphism
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice16-Polymorphism/bin/Debug/net9.0/Pratice16-Polymorphism.deps.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice16-Polymorphism/bin/Debug/net9.0/Pratice16-Polymorphism.runtimeconfig.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice16-Polymorphism/bin/Debug/net9.0/Pratice16-Polymorphism.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice16-Polymorphism/bin/Debug/net9.0/Pratice16-Polymorphism.pdb
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice16-Polymorphism/obj/Debug/net9.0/Pratice16-Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice16-Polymorphism/obj/Debug/net9.0/Pratice16-Polymorphism.AssemblyInfoInputs.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice16-Polymorphism/obj/Debug/net9.0/Pratice16-Polymorphism.AssemblyInfo.cs
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice16-Polymorphism/obj/Debug/net9.0/Pratice16-Polymorphism.csproj.CoreCompileInputs.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice16-Polymorphism/obj/Debug/net9.0/Pratice16-Polymorphism.sourcelink.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice16-Polymorphism/obj/Debug/net9.0/Pratice16-Polymorphism.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice16-Polymorphism/obj/Debug/net9.0/refint/Pratice16-Polymorphism.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice16-Polymorphism/obj/Debug/net9.0/Pratice16-Polymorphism.pdb
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice16-Polymorphism/obj/Debug/net9.0/Pratice16-Polymorphism.genruntimeconfig.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Pratice16-Polymorphism/obj/Debug/net9.0/ref/Pratice16-Polymorphism.dll
