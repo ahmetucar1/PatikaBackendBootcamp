@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hafta4-Kapanis", "Hafta4-Kapanis.csproj", "{A5B78FE4-D2EB-4A71-A59E-5FAA4C82720A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5B78FE4-D2EB-4A71-A59E-5FAA4C82720A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5B78FE4-D2EB-4A71-A59E-5FAA4C82720A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5B78FE4-D2EB-4A71-A59E-5FAA4C82720A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5B78FE4-D2EB-4A71-A59E-5FAA4C82720A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1337F7A6-A588-4921-9227-2BE5262DBEE4}
+	EndGlobalSection
+EndGlobal

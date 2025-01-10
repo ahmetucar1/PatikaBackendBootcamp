@@ -1,0 +1,15 @@
+/Users/ahmetucar/OOPTEKPROJEDE/bin/Debug/net9.0/OOPTEKPROJEDE
+/Users/ahmetucar/OOPTEKPROJEDE/bin/Debug/net9.0/OOPTEKPROJEDE.deps.json
+/Users/ahmetucar/OOPTEKPROJEDE/bin/Debug/net9.0/OOPTEKPROJEDE.runtimeconfig.json
+/Users/ahmetucar/OOPTEKPROJEDE/bin/Debug/net9.0/OOPTEKPROJEDE.dll
+/Users/ahmetucar/OOPTEKPROJEDE/bin/Debug/net9.0/OOPTEKPROJEDE.pdb
+/Users/ahmetucar/OOPTEKPROJEDE/obj/Debug/net9.0/OOPTEKPROJEDE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetucar/OOPTEKPROJEDE/obj/Debug/net9.0/OOPTEKPROJEDE.AssemblyInfoInputs.cache
+/Users/ahmetucar/OOPTEKPROJEDE/obj/Debug/net9.0/OOPTEKPROJEDE.AssemblyInfo.cs
+/Users/ahmetucar/OOPTEKPROJEDE/obj/Debug/net9.0/OOPTEKPROJEDE.csproj.CoreCompileInputs.cache
+/Users/ahmetucar/OOPTEKPROJEDE/obj/Debug/net9.0/OOPTEKPROJEDE.sourcelink.json
+/Users/ahmetucar/OOPTEKPROJEDE/obj/Debug/net9.0/OOPTEKPROJEDE.dll
+/Users/ahmetucar/OOPTEKPROJEDE/obj/Debug/net9.0/refint/OOPTEKPROJEDE.dll
+/Users/ahmetucar/OOPTEKPROJEDE/obj/Debug/net9.0/OOPTEKPROJEDE.pdb
+/Users/ahmetucar/OOPTEKPROJEDE/obj/Debug/net9.0/OOPTEKPROJEDE.genruntimeconfig.cache
+/Users/ahmetucar/OOPTEKPROJEDE/obj/Debug/net9.0/ref/OOPTEKPROJEDE.dll

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Pratice17-Abstraction")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("OOPTEKPROJEDE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f31fb230c61c41fab2730a90bf6556e6fbeb2895")]
-[assembly: System.Reflection.AssemblyProductAttribute("Pratice17-Abstraction")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Pratice17-Abstraction")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ad325fa096787553029b7b45672b15fd587f177")]
+[assembly: System.Reflection.AssemblyProductAttribute("OOPTEKPROJEDE")]
+[assembly: System.Reflection.AssemblyTitleAttribute("OOPTEKPROJEDE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

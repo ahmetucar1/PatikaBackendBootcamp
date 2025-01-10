@@ -1,0 +1,5 @@
+/Users/ahmetucar/Desktop/Hafta4-Kapanis/obj/Debug/net9.0/Hafta4-Kapanis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetucar/Desktop/Hafta4-Kapanis/obj/Debug/net9.0/Hafta4-Kapanis.AssemblyInfoInputs.cache
+/Users/ahmetucar/Desktop/Hafta4-Kapanis/obj/Debug/net9.0/Hafta4-Kapanis.AssemblyInfo.cs
+/Users/ahmetucar/Desktop/Hafta4-Kapanis/obj/Debug/net9.0/Hafta4-Kapanis.csproj.CoreCompileInputs.cache
+/Users/ahmetucar/Desktop/Hafta4-Kapanis/obj/Debug/net9.0/Hafta4-Kapanis.sourcelink.json
