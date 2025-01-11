@@ -1,0 +1,15 @@
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice18-Arrays/bin/Debug/net9.0/Pratice18-Arrays
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice18-Arrays/bin/Debug/net9.0/Pratice18-Arrays.deps.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice18-Arrays/bin/Debug/net9.0/Pratice18-Arrays.runtimeconfig.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice18-Arrays/bin/Debug/net9.0/Pratice18-Arrays.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice18-Arrays/bin/Debug/net9.0/Pratice18-Arrays.pdb
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice18-Arrays/obj/Debug/net9.0/Pratice18-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice18-Arrays/obj/Debug/net9.0/Pratice18-Arrays.AssemblyInfoInputs.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice18-Arrays/obj/Debug/net9.0/Pratice18-Arrays.AssemblyInfo.cs
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice18-Arrays/obj/Debug/net9.0/Pratice18-Arrays.csproj.CoreCompileInputs.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice18-Arrays/obj/Debug/net9.0/Pratice18-Arrays.sourcelink.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice18-Arrays/obj/Debug/net9.0/Pratice18-Arrays.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice18-Arrays/obj/Debug/net9.0/refint/Pratice18-Arrays.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice18-Arrays/obj/Debug/net9.0/Pratice18-Arrays.pdb
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice18-Arrays/obj/Debug/net9.0/Pratice18-Arrays.genruntimeconfig.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice18-Arrays/obj/Debug/net9.0/ref/Pratice18-Arrays.dll
