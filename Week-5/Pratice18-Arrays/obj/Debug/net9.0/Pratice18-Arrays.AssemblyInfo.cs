@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Hafta4-Kapanis")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Pratice18-Arrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e644f4702a121e6efac3a60752cd96ce0542fc5")]
-[assembly: System.Reflection.AssemblyProductAttribute("Hafta4-Kapanis")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Hafta4-Kapanis")]
+[assembly: System.Reflection.AssemblyProductAttribute("Pratice18-Arrays")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Pratice18-Arrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

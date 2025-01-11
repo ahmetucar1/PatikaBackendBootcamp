@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Hafta4-Kapanis/Hafta4-Kapanis.csproj",
-      "projectName": "Hafta4-Kapanis",
-      "projectPath": "/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Hafta4-Kapanis/Hafta4-Kapanis.csproj",
+      "projectUniqueName": "/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice18-Arrays/Pratice18-Arrays.csproj",
+      "projectName": "Pratice18-Arrays",
+      "projectPath": "/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice18-Arrays/Pratice18-Arrays.csproj",
       "packagesPath": "/Users/ahmetucar/.nuget/packages/",
-      "outputPath": "/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-4/Hafta4-Kapanis/obj/",
+      "outputPath": "/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice18-Arrays/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ahmetucar/.nuget/NuGet/NuGet.Config"
