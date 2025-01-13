@@ -23,7 +23,7 @@ namespace Pratice17Abstraction
         {
             Console.WriteLine($"Merhaba, Ben {Name} {Surname}, {Department} departmanındayım. Proje yöneticisi olarak çalışıyorum.");
         }
-    }
+    }   
 
     public class SatisTemsilcisi : Person
     {
