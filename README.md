@@ -45,6 +45,8 @@ Daha fazla bilgi veya önerileriniz için benimle iletişime geçebilirsiniz:
 
 
 GitHub: ahmetucar1
+
+
 LinkedIn: Ahmet Uçar
 
 
