@@ -43,6 +43,9 @@ Bu repo, backend geliştirme sürecindeki öğrenme yolculuğumu belgelemek ve �
 İletişim
 Daha fazla bilgi veya önerileriniz için benimle iletişime geçebilirsiniz:
 
+
 GitHub: ahmetucar1
 LinkedIn: Ahmet Uçar
+
+
 Bu repo, backend geliştirme konularında öğrendiklerimi paylaşmak ve diğer geliştiricilerle iş birliği yapmak için oluşturulmuştur. Her türlü geri bildirim ve katkı memnuniyetle karşılanır!
