@@ -1,0 +1,15 @@
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice19-Lists/bin/Debug/net9.0/Pratice19-Lists
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice19-Lists/bin/Debug/net9.0/Pratice19-Lists.deps.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice19-Lists/bin/Debug/net9.0/Pratice19-Lists.runtimeconfig.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice19-Lists/bin/Debug/net9.0/Pratice19-Lists.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice19-Lists/bin/Debug/net9.0/Pratice19-Lists.pdb
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice19-Lists/obj/Debug/net9.0/Pratice19-Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice19-Lists/obj/Debug/net9.0/Pratice19-Lists.AssemblyInfoInputs.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice19-Lists/obj/Debug/net9.0/Pratice19-Lists.AssemblyInfo.cs
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice19-Lists/obj/Debug/net9.0/Pratice19-Lists.csproj.CoreCompileInputs.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice19-Lists/obj/Debug/net9.0/Pratice19-Lists.sourcelink.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice19-Lists/obj/Debug/net9.0/Pratice19-Lists.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice19-Lists/obj/Debug/net9.0/refint/Pratice19-Lists.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice19-Lists/obj/Debug/net9.0/Pratice19-Lists.pdb
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice19-Lists/obj/Debug/net9.0/Pratice19-Lists.genruntimeconfig.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice19-Lists/obj/Debug/net9.0/ref/Pratice19-Lists.dll
