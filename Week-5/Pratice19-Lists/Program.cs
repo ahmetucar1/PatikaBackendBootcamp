@@ -23,6 +23,7 @@ namespace Name
             //Listeyi yazdırma
             foreach (var davetli in davetliler)
             {
+                Console.WriteLine("**Davetliler**");
                 Console.WriteLine(davetli);
             }
 
@@ -33,7 +34,7 @@ namespace Name
             //alınan ismi listeye ekleme
             davetliler.Add(yeniDavetli);
 
-            Console.WriteLine("Yeni Davetli Listesi");
+            Console.WriteLine("**Yeni Davetli Listesi**");
 
             //Yeni Listeyi yazdırma
             foreach (var davetli in davetliler)
