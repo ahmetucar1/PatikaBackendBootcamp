@@ -1,0 +1,15 @@
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice-20-ListCoffe/bin/Debug/net9.0/Pratice-20-ListCoffe
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice-20-ListCoffe/bin/Debug/net9.0/Pratice-20-ListCoffe.deps.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice-20-ListCoffe/bin/Debug/net9.0/Pratice-20-ListCoffe.runtimeconfig.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice-20-ListCoffe/bin/Debug/net9.0/Pratice-20-ListCoffe.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice-20-ListCoffe/bin/Debug/net9.0/Pratice-20-ListCoffe.pdb
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice-20-ListCoffe/obj/Debug/net9.0/Pratice-20-ListCoffe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice-20-ListCoffe/obj/Debug/net9.0/Pratice-20-ListCoffe.AssemblyInfoInputs.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice-20-ListCoffe/obj/Debug/net9.0/Pratice-20-ListCoffe.AssemblyInfo.cs
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice-20-ListCoffe/obj/Debug/net9.0/Pratice-20-ListCoffe.csproj.CoreCompileInputs.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice-20-ListCoffe/obj/Debug/net9.0/Pratice-20-ListCoffe.sourcelink.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice-20-ListCoffe/obj/Debug/net9.0/Pratice-20-ListCoffe.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice-20-ListCoffe/obj/Debug/net9.0/refint/Pratice-20-ListCoffe.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice-20-ListCoffe/obj/Debug/net9.0/Pratice-20-ListCoffe.pdb
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice-20-ListCoffe/obj/Debug/net9.0/Pratice-20-ListCoffe.genruntimeconfig.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice-20-ListCoffe/obj/Debug/net9.0/ref/Pratice-20-ListCoffe.dll
