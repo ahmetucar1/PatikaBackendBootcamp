@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Pratice21-IMDBList/1.0.0": {
+        "runtime": {
+          "Pratice21-IMDBList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pratice21-IMDBList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

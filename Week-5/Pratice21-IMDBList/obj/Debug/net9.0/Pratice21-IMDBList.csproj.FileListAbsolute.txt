@@ -1,0 +1,15 @@
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice21-IMDBList/bin/Debug/net9.0/Pratice21-IMDBList
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice21-IMDBList/bin/Debug/net9.0/Pratice21-IMDBList.deps.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice21-IMDBList/bin/Debug/net9.0/Pratice21-IMDBList.runtimeconfig.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice21-IMDBList/bin/Debug/net9.0/Pratice21-IMDBList.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice21-IMDBList/bin/Debug/net9.0/Pratice21-IMDBList.pdb
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice21-IMDBList/obj/Debug/net9.0/Pratice21-IMDBList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice21-IMDBList/obj/Debug/net9.0/Pratice21-IMDBList.AssemblyInfoInputs.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice21-IMDBList/obj/Debug/net9.0/Pratice21-IMDBList.AssemblyInfo.cs
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice21-IMDBList/obj/Debug/net9.0/Pratice21-IMDBList.csproj.CoreCompileInputs.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice21-IMDBList/obj/Debug/net9.0/Pratice21-IMDBList.sourcelink.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice21-IMDBList/obj/Debug/net9.0/Pratice21-IMDBList.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice21-IMDBList/obj/Debug/net9.0/refint/Pratice21-IMDBList.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice21-IMDBList/obj/Debug/net9.0/Pratice21-IMDBList.pdb
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice21-IMDBList/obj/Debug/net9.0/Pratice21-IMDBList.genruntimeconfig.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice21-IMDBList/obj/Debug/net9.0/ref/Pratice21-IMDBList.dll
