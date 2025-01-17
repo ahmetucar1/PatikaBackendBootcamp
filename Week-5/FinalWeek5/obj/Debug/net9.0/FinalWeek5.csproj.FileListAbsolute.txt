@@ -1,0 +1,15 @@
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/FinalWeek5/obj/Debug/net9.0/FinalWeek5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/FinalWeek5/obj/Debug/net9.0/FinalWeek5.AssemblyInfoInputs.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/FinalWeek5/obj/Debug/net9.0/FinalWeek5.AssemblyInfo.cs
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/FinalWeek5/obj/Debug/net9.0/FinalWeek5.csproj.CoreCompileInputs.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/FinalWeek5/obj/Debug/net9.0/FinalWeek5.sourcelink.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/FinalWeek5/bin/Debug/net9.0/FinalWeek5
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/FinalWeek5/bin/Debug/net9.0/FinalWeek5.deps.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/FinalWeek5/bin/Debug/net9.0/FinalWeek5.runtimeconfig.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/FinalWeek5/bin/Debug/net9.0/FinalWeek5.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/FinalWeek5/bin/Debug/net9.0/FinalWeek5.pdb
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/FinalWeek5/obj/Debug/net9.0/FinalWeek5.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/FinalWeek5/obj/Debug/net9.0/refint/FinalWeek5.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/FinalWeek5/obj/Debug/net9.0/FinalWeek5.pdb
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/FinalWeek5/obj/Debug/net9.0/FinalWeek5.genruntimeconfig.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/FinalWeek5/obj/Debug/net9.0/ref/FinalWeek5.dll
