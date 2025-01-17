@@ -32,10 +32,10 @@ namespace IMBDList
         do
         {
             // Kullanıcıdan film adı ve imdb puanı alınır
-            Console.Write("Film adı girin: ");
+            Console.WriteLine("Film adı girin: ");
             string filmAdi = Console.ReadLine();
             
-            Console.Write("IMDb puanı girin: ");
+            Console.WriteLine("IMDb puanı girin: ");
             double imdbPuani;
             while (!double.TryParse(Console.ReadLine(), out imdbPuani))  // Geçerli bir double girilene kadar bekler
             {
@@ -47,7 +47,7 @@ namespace IMBDList
             filmListesi.Add(yeniFilm);
 
             // Yeni film eklemek isteyip istemediğini sorar
-            Console.Write("Başka bir film eklemek ister misiniz? (Evet/Hayır): ");
+            Console.WriteLine("Başka bir film eklemek ister misiniz? (Evet/Hayır): ");
             devamEt = Console.ReadLine().ToLower();
 
         } while (devamEt == "evet");
@@ -70,7 +70,7 @@ namespace IMBDList
         }
 
         // 3. İsmi 'A' ile başlayan filmleri listeleme
-         Console.WriteLine("\nİsmi 'A' ile başlayan Filmler:");
+        Console.WriteLine("\nİsmi 'A' ile başlayan Filmler:");
         foreach (var film in filmListesi)
         {
             // 'A' harfi ile başlayan filmleri kontrol et

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Pratice21-IMDBList")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Pratice22-TryCatch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2425783baf617ee1cff50cb3398afccc8e4ff52")]
-[assembly: System.Reflection.AssemblyProductAttribute("Pratice21-IMDBList")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Pratice21-IMDBList")]
+[assembly: System.Reflection.AssemblyProductAttribute("Pratice22-TryCatch")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Pratice22-TryCatch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

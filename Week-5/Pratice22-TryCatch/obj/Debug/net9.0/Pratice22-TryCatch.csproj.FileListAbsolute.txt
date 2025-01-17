@@ -1,0 +1,15 @@
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice22-TryCatch/bin/Debug/net9.0/Pratice22-TryCatch
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice22-TryCatch/bin/Debug/net9.0/Pratice22-TryCatch.deps.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice22-TryCatch/bin/Debug/net9.0/Pratice22-TryCatch.runtimeconfig.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice22-TryCatch/bin/Debug/net9.0/Pratice22-TryCatch.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice22-TryCatch/bin/Debug/net9.0/Pratice22-TryCatch.pdb
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice22-TryCatch/obj/Debug/net9.0/Pratice22-TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice22-TryCatch/obj/Debug/net9.0/Pratice22-TryCatch.AssemblyInfoInputs.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice22-TryCatch/obj/Debug/net9.0/Pratice22-TryCatch.AssemblyInfo.cs
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice22-TryCatch/obj/Debug/net9.0/Pratice22-TryCatch.csproj.CoreCompileInputs.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice22-TryCatch/obj/Debug/net9.0/Pratice22-TryCatch.sourcelink.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice22-TryCatch/obj/Debug/net9.0/Pratice22-TryCatch.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice22-TryCatch/obj/Debug/net9.0/refint/Pratice22-TryCatch.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice22-TryCatch/obj/Debug/net9.0/Pratice22-TryCatch.pdb
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice22-TryCatch/obj/Debug/net9.0/Pratice22-TryCatch.genruntimeconfig.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-5/Pratice22-TryCatch/obj/Debug/net9.0/ref/Pratice22-TryCatch.dll
