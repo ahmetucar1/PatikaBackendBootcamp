@@ -1,0 +1,15 @@
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratik23-Linq/bin/Debug/net9.0/Pratik23-Linq
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratik23-Linq/bin/Debug/net9.0/Pratik23-Linq.deps.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratik23-Linq/bin/Debug/net9.0/Pratik23-Linq.runtimeconfig.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratik23-Linq/bin/Debug/net9.0/Pratik23-Linq.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratik23-Linq/bin/Debug/net9.0/Pratik23-Linq.pdb
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratik23-Linq/obj/Debug/net9.0/Pratik23-Linq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratik23-Linq/obj/Debug/net9.0/Pratik23-Linq.AssemblyInfoInputs.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratik23-Linq/obj/Debug/net9.0/Pratik23-Linq.AssemblyInfo.cs
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratik23-Linq/obj/Debug/net9.0/Pratik23-Linq.csproj.CoreCompileInputs.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratik23-Linq/obj/Debug/net9.0/Pratik23-Linq.sourcelink.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratik23-Linq/obj/Debug/net9.0/Pratik23-Linq.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratik23-Linq/obj/Debug/net9.0/refint/Pratik23-Linq.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratik23-Linq/obj/Debug/net9.0/Pratik23-Linq.pdb
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratik23-Linq/obj/Debug/net9.0/Pratik23-Linq.genruntimeconfig.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratik23-Linq/obj/Debug/net9.0/ref/Pratik23-Linq.dll
