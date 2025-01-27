@@ -1,0 +1,15 @@
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice24-Patikafy/bin/Debug/net9.0/Pratice24-Patikafy
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice24-Patikafy/bin/Debug/net9.0/Pratice24-Patikafy.deps.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice24-Patikafy/bin/Debug/net9.0/Pratice24-Patikafy.runtimeconfig.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice24-Patikafy/bin/Debug/net9.0/Pratice24-Patikafy.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice24-Patikafy/bin/Debug/net9.0/Pratice24-Patikafy.pdb
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice24-Patikafy/obj/Debug/net9.0/Pratice24-Patikafy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice24-Patikafy/obj/Debug/net9.0/Pratice24-Patikafy.AssemblyInfoInputs.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice24-Patikafy/obj/Debug/net9.0/Pratice24-Patikafy.AssemblyInfo.cs
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice24-Patikafy/obj/Debug/net9.0/Pratice24-Patikafy.csproj.CoreCompileInputs.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice24-Patikafy/obj/Debug/net9.0/Pratice24-Patikafy.sourcelink.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice24-Patikafy/obj/Debug/net9.0/Pratice24-Patikafy.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice24-Patikafy/obj/Debug/net9.0/refint/Pratice24-Patikafy.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice24-Patikafy/obj/Debug/net9.0/Pratice24-Patikafy.pdb
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice24-Patikafy/obj/Debug/net9.0/Pratice24-Patikafy.genruntimeconfig.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice24-Patikafy/obj/Debug/net9.0/ref/Pratice24-Patikafy.dll
