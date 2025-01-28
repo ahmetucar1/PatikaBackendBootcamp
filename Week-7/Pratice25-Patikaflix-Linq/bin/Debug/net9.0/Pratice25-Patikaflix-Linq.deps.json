@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v9.0": {
-      "Pratice24-Patikafy/1.0.0": {
+      "Pratice25-Patikaflix-Linq/1.0.0": {
         "runtime": {
-          "Pratice24-Patikafy.dll": {}
+          "Pratice25-Patikaflix-Linq.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Pratice24-Patikafy/1.0.0": {
+    "Pratice25-Patikaflix-Linq/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

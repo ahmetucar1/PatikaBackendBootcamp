@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice24-Patikafy/Pratice24-Patikafy.csproj": {}
+    "/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice25-Patikaflix-Linq/Pratice25-Patikaflix-Linq.csproj": {}
   },
   "projects": {
-    "/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice24-Patikafy/Pratice24-Patikafy.csproj": {
+    "/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice25-Patikaflix-Linq/Pratice25-Patikaflix-Linq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice24-Patikafy/Pratice24-Patikafy.csproj",
-        "projectName": "Pratice24-Patikafy",
-        "projectPath": "/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice24-Patikafy/Pratice24-Patikafy.csproj",
+        "projectUniqueName": "/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice25-Patikaflix-Linq/Pratice25-Patikaflix-Linq.csproj",
+        "projectName": "Pratice25-Patikaflix-Linq",
+        "projectPath": "/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice25-Patikaflix-Linq/Pratice25-Patikaflix-Linq.csproj",
         "packagesPath": "/Users/ahmetucar/.nuget/packages/",
-        "outputPath": "/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice24-Patikafy/obj/",
+        "outputPath": "/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice25-Patikaflix-Linq/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ahmetucar/.nuget/NuGet/NuGet.Config"
@@ -43,12 +43,6 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Mvc": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

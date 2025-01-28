@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Pratice24-Patikafy")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Pratice25-Patikaflix-Linq")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ec99db7c13286534c09112c6259a4706fd77342")]
-[assembly: System.Reflection.AssemblyProductAttribute("Pratice24-Patikafy")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Pratice24-Patikafy")]
+[assembly: System.Reflection.AssemblyProductAttribute("Pratice25-Patikaflix-Linq")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Pratice25-Patikaflix-Linq")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

@@ -1,0 +1,15 @@
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice25-Patikaflix-Linq/bin/Debug/net9.0/Pratice25-Patikaflix-Linq
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice25-Patikaflix-Linq/bin/Debug/net9.0/Pratice25-Patikaflix-Linq.deps.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice25-Patikaflix-Linq/bin/Debug/net9.0/Pratice25-Patikaflix-Linq.runtimeconfig.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice25-Patikaflix-Linq/bin/Debug/net9.0/Pratice25-Patikaflix-Linq.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice25-Patikaflix-Linq/bin/Debug/net9.0/Pratice25-Patikaflix-Linq.pdb
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice25-Patikaflix-Linq/obj/Debug/net9.0/Pratice25-Patikaflix-Linq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice25-Patikaflix-Linq/obj/Debug/net9.0/Pratice25-Patikaflix-Linq.AssemblyInfoInputs.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice25-Patikaflix-Linq/obj/Debug/net9.0/Pratice25-Patikaflix-Linq.AssemblyInfo.cs
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice25-Patikaflix-Linq/obj/Debug/net9.0/Pratice25-Patikaflix-Linq.csproj.CoreCompileInputs.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice25-Patikaflix-Linq/obj/Debug/net9.0/Pratice25-Patikaflix-Linq.sourcelink.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice25-Patikaflix-Linq/obj/Debug/net9.0/Pratice25-Patikaflix-Linq.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice25-Patikaflix-Linq/obj/Debug/net9.0/refint/Pratice25-Patikaflix-Linq.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice25-Patikaflix-Linq/obj/Debug/net9.0/Pratice25-Patikaflix-Linq.pdb
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice25-Patikaflix-Linq/obj/Debug/net9.0/Pratice25-Patikaflix-Linq.genruntimeconfig.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice25-Patikaflix-Linq/obj/Debug/net9.0/ref/Pratice25-Patikaflix-Linq.dll
