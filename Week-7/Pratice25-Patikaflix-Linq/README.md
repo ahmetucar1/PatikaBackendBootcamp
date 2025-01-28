@@ -1,8 +1,8 @@
-Here’s a sample README file for your project:
 
----
 
 # Patikaflix - Series Management Application
+
+---
 
 Patikaflix is a console-based application designed to manage a list of TV series. Users can input various details about each series, such as its name, production year, genre, director, and platform. The application also allows users to filter and display comedy series with specific details, sorted by series name and director.
 
