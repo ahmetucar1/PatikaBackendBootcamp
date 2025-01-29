@@ -1,0 +1,15 @@
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice26-Linq-Join/bin/Debug/net9.0/Pratice26-Linq-Join
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice26-Linq-Join/bin/Debug/net9.0/Pratice26-Linq-Join.deps.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice26-Linq-Join/bin/Debug/net9.0/Pratice26-Linq-Join.runtimeconfig.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice26-Linq-Join/bin/Debug/net9.0/Pratice26-Linq-Join.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice26-Linq-Join/bin/Debug/net9.0/Pratice26-Linq-Join.pdb
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice26-Linq-Join/obj/Debug/net9.0/Pratice26-Linq-Join.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice26-Linq-Join/obj/Debug/net9.0/Pratice26-Linq-Join.AssemblyInfoInputs.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice26-Linq-Join/obj/Debug/net9.0/Pratice26-Linq-Join.AssemblyInfo.cs
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice26-Linq-Join/obj/Debug/net9.0/Pratice26-Linq-Join.csproj.CoreCompileInputs.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice26-Linq-Join/obj/Debug/net9.0/Pratice26-Linq-Join.sourcelink.json
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice26-Linq-Join/obj/Debug/net9.0/Pratice26-Linq-Join.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice26-Linq-Join/obj/Debug/net9.0/refint/Pratice26-Linq-Join.dll
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice26-Linq-Join/obj/Debug/net9.0/Pratice26-Linq-Join.pdb
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice26-Linq-Join/obj/Debug/net9.0/Pratice26-Linq-Join.genruntimeconfig.cache
+/Users/ahmetucar/Desktop/PatikaBackendBootcamp/Week-7/Pratice26-Linq-Join/obj/Debug/net9.0/ref/Pratice26-Linq-Join.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Pratice26-Linq-Join/1.0.0": {
+        "runtime": {
+          "Pratice26-Linq-Join.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pratice26-Linq-Join/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
