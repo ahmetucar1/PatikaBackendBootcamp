@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Pratice26-Linq-Join")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Pratice27-Linq-Join")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e26721b558a987da4bc5c9c6984d62f75a5ce8d")]
-[assembly: System.Reflection.AssemblyProductAttribute("Pratice26-Linq-Join")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Pratice26-Linq-Join")]
+[assembly: System.Reflection.AssemblyProductAttribute("Pratice27-Linq-Join")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Pratice27-Linq-Join")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
