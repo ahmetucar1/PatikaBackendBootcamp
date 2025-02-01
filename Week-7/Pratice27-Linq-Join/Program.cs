@@ -9,8 +9,8 @@ namespace LinqJoin
             List<Students> student = new List<Students>
             {
              new Students {StudentId = 1, StudentName = "Hülya", ClassId = 1},
-             new Students {StudentId = 2, StudentName = "İrem", ClassId = 1},
-             new Students {StudentId = 3, StudentName = "Ali", ClassId = 1},
+             new Students {StudentId = 2, StudentName = "İrem", ClassId = 2},
+             new Students {StudentId = 3, StudentName = "Ali", ClassId = 3},
             };
 
             List<Classes> classes = new List<Classes>
