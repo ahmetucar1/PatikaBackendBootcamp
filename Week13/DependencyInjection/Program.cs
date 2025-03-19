@@ -49,7 +49,7 @@ class Program
         
         // Dependency Injection Container
         var serviceProvider = new ServiceCollection()
-            .AddTransient<ITeacher, Teacher>(provider => new Teacher("Kutay", "Özcan")).AddTransient<Classroom>()
+            .AddTransient<ITeacher, Teacher>(provider => new Teacher("Ahmet", "Uçar")).AddTransient<Classroom>()
             .BuildServiceProvider();
         
         var classroom = serviceProvider.GetService<Classroom>();
